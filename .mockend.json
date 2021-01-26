@@ -1,3 +1,5 @@
 {
-  "Post": ["Senin", "Selasa", "Rabu", "Kamis", "Jumat", "Sabtu", "Minggu"]
+  "data": {
+    "days" : ["Senin", "Selasa", "Rabu", "Kamis", "Jumat", "Sabtu", "Minggu"] 
+  }
 }
