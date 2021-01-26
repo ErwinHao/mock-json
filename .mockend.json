@@ -1,0 +1,7 @@
+[
+  {
+    "id": 1,
+    "days": ["Senin", "Selasa", "Rabu", "Kamis", "Jumat", "Sabtu", "Minggu"],
+    "what": "Is this"
+  }
+]
